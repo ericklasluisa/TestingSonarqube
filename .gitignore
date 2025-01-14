@@ -1,0 +1,74 @@
+# Archivos generados por Visual Studio
+.vs/
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+# Archivos generados por Build
+bin/
+obj/
+*.log
+*.cache
+*.pdb
+*.mdb
+
+# Archivos generados por NuGet
+*.nupkg
+*.nuspec
+packages/
+project.lock.json
+project.fragment.lock.json
+artifacts/
+
+# Archivos de configuración de la publicación
+PublishScripts/
+appsettings.*.json
+appsettings.json
+
+# Archivos temporales de depuración
+*.tss
+*.exe
+*.dll
+*.db
+*.tmp
+*.bak
+*.swp
+
+# Archivos de configuración específicos del entorno
+launchSettings.json
+
+# Configuración de Rider/JetBrains
+.idea/
+*.sln.iml
+
+# Configuración de Mac OS y Windows
+.DS_Store
+Thumbs.db
+
+# Archivos generados por el sistema
+*.pidb
+*.pyc
+*.pidb
+*.log
+
+# Configuración de Docker
+docker-compose.override.yml
+
+# Configuración de Azure
+local.settings.json
+Azure.Functions.VsCode/
+
+# Configuración de archivos de cobertura de código
+coverage/
+*.coverage
+*.coveragexml
+*.codecov
+
+# Archivos generados por Test Explorer
+TestResults/
+*.trx
+
+# Configuración específica de tu proyecto
+node_modules/
+wwwroot/
